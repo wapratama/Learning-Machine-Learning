@@ -62,14 +62,17 @@ uv run jupyter notebook
 Always use uv run prefix to run scripts and commands.
 
 ### Download the data
-Data Source: Kaggle
+Data Source: [Kaggle](https://www.kaggle.com/)
+
+Kaggle is a platform and online community for data scientists and machine learning practitioners.
+
 - Method 1: Using Kaggle API
   
-  Authenticate first before using Kaggle API: Read instruction [here](https://github.com/Kaggle/kaggle-cli/blob/main/docs/README.md).
+  Make sure you have Kaggle account. Authenticate first before using Kaggle API (Read instruction [here](https://github.com/Kaggle/kaggle-cli/blob/main/docs/README.md)).
 
 - Method 2: Manual Download
 
-  Simply manual download it from the link above (click **Download** or **Download All**), unzip and place it under your data folder.
+  Simply manual download it from the link that I attached in notebook (click **Download** or **Download All**), unzip and place it under your data folder.
 
 ---
 
@@ -103,7 +106,16 @@ Data Source: Kaggle
 
 ---
 
-## Connect
+## Disclaimer
+**AI-Assisted Content**: Some materials in this repository, including code, documentation, and visual assets, were developed with the assistance of AI tools (Claude, Gemini, and Napkin). All AI-generated outputs have been manually reviewed, refined, and adjusted to ensure technical accuracy and alignment with project goals.
+
+**Educational Purpose**: The content provided here is for educational and portfolio purposes only.
+
+**Copyright & Takedown**: If you identify any content that infringes upon your intellectual property rights or was used without proper authorization, please contact me directly. I am committed to addressing such concerns and will remove the content promptly upon verification.
+
+---
+
+## Contact & Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/wisnu-anugrah-pratama/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/wapratama)
