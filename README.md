@@ -30,9 +30,9 @@ Notes: For this repo, I am not fully demonstrate this full workflows.
 
 | Module | Topics Covered | Status |
 |--------|----------------|--------|
-| [Regression](./01-Regression/) | Linear, Polynomial, Ridge, Lasso | 📅 Planned |
-| [Classification](./02-Classification/) | Logistic, Decision Tree, Random Forest, SVM | 📅 Planned |
-| [Clustering](./03-Clustering/) | K-Means, Hierarchical, DBSCAN | 📅 Planned |
+| [Regression](./01-Regression/) | Linear, Polynomial, Ridge, Lasso | 🔄  Active / In Progress |
+| [Classification](./02-Classification/) | Logistic, Decision Tree, Random Forest, SVM | 🔄  Active / In Progress |
+| [Clustering](./03-Clustering/) | K-Means, Hierarchical, DBSCAN | 🔄  Active / In Progress |
 | [Feature Engineering](./04-FeatureEng/) | Encoding, Scaling, Selection, PCA | 📅 Planned |
 | [Hyperparameter Tuning](./05-Hyperparam/) | GridSearch, RandomSearch | 📅 Planned |
 
@@ -75,10 +75,19 @@ Data Source: Kaggle
 
 ## Key Learnings & Highlights
 
-### Regression
+### 01. Regression
+*(Active / In Progress)*
+
+### 02. Classification
+*(Active / In Progress)*
+
+### 03. Regression
+*(Active / In Progress)*
+
+### 04. Feature Engineering
 *(Planned)*
 
-### Classification
+### 05. Hyperparameter Tuning
 *(Planned)*
 
 ---
